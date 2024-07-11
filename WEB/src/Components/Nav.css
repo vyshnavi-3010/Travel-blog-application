@@ -1,0 +1,22 @@
+.Navshadow{
+    /* box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+
+}
+.logoImage{
+
+    width:250px;
+    height:auto;
+    padding-right: 50px;
+}
+.space{
+    padding-right:5px;
+}
+Nav.Link .NavLink{
+
+    padding: 0px 5px;
+}
+a {
+    color: #000;
+        text-decoration: none;
+}

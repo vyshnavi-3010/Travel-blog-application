@@ -1,0 +1,27 @@
+.card{
+
+    border: 1px solid black;
+    
+        
+    }
+   
+    .boxshadow{
+        padding:20px;
+        box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+        border-radius: 10px;
+        margin: 5px;
+            }
+    .cardTitle{
+        padding-top:10px;
+        padding-bottom:0px;
+        padding-left:5px;
+    }
+    .spacecontt{
+        padding-top:40px;
+       
+    }
+    .imgcard{
+        object-fit: contain;
+        width:100%;
+        height:100%;
+    }

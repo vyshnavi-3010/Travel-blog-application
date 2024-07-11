@@ -1,0 +1,33 @@
+.topHeader{
+    background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);color: rgb(251, 249, 249);
+padding:05px 10px;
+ vertical-align: middle;
+
+}
+.topRight{
+
+    text-align: right;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+}
+.content{
+    margin-top: 5px;
+    margin-bottom:5px;
+    vertical-align: middle;
+}
+.align-me {
+    display: flex;
+    align-items: center;
+  }
+.icons{
+
+    height:auto;
+    width:35px;
+    color: #f9f8f7;
+    padding: 8px;
+    margin: 2px;
+    border-radius: 50%;
+    background-color: black;
+}
